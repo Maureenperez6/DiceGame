@@ -1,0 +1,14 @@
+C:\Users\maure\Desktop\Repos\DICE\bin\Debug\netcoreapp3.1\DICE.exe
+C:\Users\maure\Desktop\Repos\DICE\bin\Debug\netcoreapp3.1\DICE.deps.json
+C:\Users\maure\Desktop\Repos\DICE\bin\Debug\netcoreapp3.1\DICE.runtimeconfig.json
+C:\Users\maure\Desktop\Repos\DICE\bin\Debug\netcoreapp3.1\DICE.runtimeconfig.dev.json
+C:\Users\maure\Desktop\Repos\DICE\bin\Debug\netcoreapp3.1\DICE.dll
+C:\Users\maure\Desktop\Repos\DICE\bin\Debug\netcoreapp3.1\DICE.pdb
+C:\Users\maure\Desktop\Repos\DICE\obj\Debug\netcoreapp3.1\DICE.csproj.AssemblyReference.cache
+C:\Users\maure\Desktop\Repos\DICE\obj\Debug\netcoreapp3.1\DICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maure\Desktop\Repos\DICE\obj\Debug\netcoreapp3.1\DICE.AssemblyInfoInputs.cache
+C:\Users\maure\Desktop\Repos\DICE\obj\Debug\netcoreapp3.1\DICE.AssemblyInfo.cs
+C:\Users\maure\Desktop\Repos\DICE\obj\Debug\netcoreapp3.1\DICE.csproj.CoreCompileInputs.cache
+C:\Users\maure\Desktop\Repos\DICE\obj\Debug\netcoreapp3.1\DICE.dll
+C:\Users\maure\Desktop\Repos\DICE\obj\Debug\netcoreapp3.1\DICE.pdb
+C:\Users\maure\Desktop\Repos\DICE\obj\Debug\netcoreapp3.1\DICE.genruntimeconfig.cache
